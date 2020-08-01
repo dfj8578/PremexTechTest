@@ -40,15 +40,7 @@ namespace PremexTechnicalTest
         }
 
 
-        // Assert how many Gumtree links are available
-
-      //  public void GumtreelinksAvalaibe()
-       // {
-
-       // }
-
-
-       // Navigate to each Gumtree link
+       
 
        
 
